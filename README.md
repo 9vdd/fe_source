@@ -22,6 +22,7 @@
 * [html-webpack-plugin: html处理插件](https://github.com/jantimon/html-webpack-plugin)
 * [extract-text-webpack-plugin: css提取插件](https://github.com/webpack-contrib/extract-text-webpack-plugin)
 * [copy-webpack-plugin: 复制文件插件](https://github.com/webpack-contrib/copy-webpack-plugin)
+* [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
 
 ## postcss
 
