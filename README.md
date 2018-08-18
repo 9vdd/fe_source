@@ -3,12 +3,12 @@
 
 ## react
 
-* [react库](https://github.com/facebook/react, "react")
-* [react-router](https://github.com/ReactTraining/react-router, "react-router")
-* [redux](https://github.com/reduxjs/redux, "redux")
-* [mobx](https://github.com/mobxjs/mobx, "mobx")
-* [dva](https://github.com/dvajs/dva, "dva")
-* [create-react-app](https://github.com/facebook/create-react-app, "create-react-app")
+* [react库](https://github.com/facebook/react)
+* [react-router](https://github.com/ReactTraining/react-router)
+* [redux](https://github.com/reduxjs/redux)
+* [mobx](https://github.com/mobxjs/mobx)
+* [dva](https://github.com/dvajs/dva)
+* [create-react-app](https://github.com/facebook/create-react-app)
 
 ## vue
 
